@@ -1,5 +1,5 @@
 # llamalog
-This is a research project I'm working on Parameter-Efficient finetuning Code Llama for a Verilog Code Assistant.
+This is a research project I'm working on: Parameter-Efficient finetuning Code Llama for a Verilog Code Assistant.
 
 ds_config.json for DeepSpeed Configuration.
 peft2_llama.yml for environment.
