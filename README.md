@@ -1,4 +1,6 @@
 # llamalog
+Credits to HuggingFace Transformers and Microsoft for all transformers/deepspeed files.
+
 This is a research project I'm working on: Parameter-Efficient finetuning Code Llama for a Verilog Code Assistant.
 
 ds_config.json for DeepSpeed Configuration.
