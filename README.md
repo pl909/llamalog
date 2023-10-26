@@ -1,5 +1,5 @@
 # llamalog
-All Credits to HuggingFace and Microsoft for all transformers/deepspeed files (run_....py), which is used in this repo.
+All Credits to HuggingFace and Microsoft for transformers/deepspeed files (run_....py) used in this repo.
 
 Parameter-Efficient Finetuning Code Llama for a Verilog Code Assistant.
 
