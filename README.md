@@ -1,7 +1,7 @@
 # llamalog
 All Credits to HuggingFace and Microsoft for transformers/deepspeed files (run_....py) used in this repo.
 
-Parameter-Efficient Finetuning Code Llama for a Verilog Code Assistant.
+Part of project: Parameter-Efficient Finetuning Code Llama for a Specialized Code Assistant.
 
 ds_config.json for DeepSpeed Configuration.
 peft2_llama.yml for environment.
